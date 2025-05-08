@@ -123,7 +123,7 @@ class Pattern1{
 
         }
 
-
+//this is main
     public static void main(String args[]){
         int n = 5;
         pattern(n);
