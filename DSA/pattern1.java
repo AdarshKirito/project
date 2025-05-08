@@ -104,7 +104,7 @@ class Pattern1{
     //         System.out.println();
     //     }
     // }
-
+    // this is static method
         static void pattern(int n){
             for(int i=1;i<=n;i++){
                 int flag =  0;
@@ -126,6 +126,7 @@ class Pattern1{
 //this is main
     public static void main(String args[]){
         int n = 5;
+        // function call
         pattern(n);
 
     }
